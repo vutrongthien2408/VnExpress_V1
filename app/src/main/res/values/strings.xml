@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VnExpress</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="loginText">Login</string>
+    <string name="registerText">Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirmPassword">ConfirmPassword</string>
+    <string name="adModId">ca-app-pub-9038105707086281/7646279051</string>
+</resources>
